@@ -25,6 +25,9 @@ git init, status, remote, add, commit, push
 | git push   | Subir cambios locales al remoto |
 | git status | Ver estado de los cambios       |
 
-Clonar un repositorio
+### Clonar un repositorio
 
-Hacer Fork de un repositorio existente
+
+
+### Hacer Fork de un repositorio existente
+
