@@ -1,6 +1,8 @@
 # Guía básica del uso de Git
 ¿Qué es Git?
+
 ¿Qué es Github?
+
 ¿Qué necesitamos para usar Github en nuestros proyectos?
   Alta Github, Git Bash (terminal), carpeta en disco local
   
