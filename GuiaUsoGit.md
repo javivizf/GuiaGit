@@ -12,12 +12,10 @@ Para usar GitHub en tu proyecto, generalmente necesitas lo siguiente:
 - [ ] **Git instalado en tu computadora**: Es el sistema de control de versiones que te permite gestionar y subir tus archivos a GitHub. Puedes descargarlo desde git-scm.com.
 - [ ] **Conocimientos básicos de Git**: Como crear repositorios, hacer commits, ramas y subir cambios (push).
 - [ ] **Un proyecto listo para subir**: Archivos y código que quieres gestionar en tu repositorio.
-- [ ] ***Opcional***: **una interfaz gráfica (GUI)**: Si prefieres no usar la línea de comandos, hay programas como GitHub Desktop que facilitan el manejo de Git.
+- [ ] *Opcional*: **una interfaz gráfica (GUI)**: Si prefieres no usar la línea de comandos, hay programas como GitHub Desktop que facilitan el manejo de Git.
 
-
-  Alta Github, Git Bash (terminal), carpeta en disco local
   
-Comandos habituales para trabajar con repositorios remotos
+### Comandos habituales para trabajar con repositorios remotos
 git init, status, remote, add, commit, push
 
 | Comando    | Column 2 | Column 3 |
