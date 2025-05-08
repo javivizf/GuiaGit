@@ -26,8 +26,10 @@ git init, status, remote, add, commit, push
 | git status | Ver estado de los cambios       |
 
 ### Clonar un repositorio
-
-
+Puedes clonar tu repositorio para crear una copia local en tu computadora y sincronizarla entre las dos ubicaciones.
+> [!TIP]
+> Esta opción nos permitirá actualizar el repositorio enlocal con el contenido remoto
 
 ### Hacer Fork de un repositorio existente
+El "fork" es una de las operativas que sirve para crear una copia de un repositorio en tu cuenta de usuario.
 
