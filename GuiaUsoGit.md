@@ -18,12 +18,12 @@ Para usar GitHub en tu proyecto, generalmente necesitas lo siguiente:
 ### Comandos habituales para trabajar con repositorios remotos
 git init, status, remote, add, commit, push
 
-| Comando    | Column 2 | Column 3 |
-|------------|----------|----------|
-| git add    | Cel   l 2| Cell 3   |
-| git commit | Cell 5   | Cell 6   |
-| git push   | Cell 8   | Cell 9   |
-| git status | Ver estad| Cualq mom|
+| Comando    | Qué hace                        |
+|------------|---------------------------------|
+| git add    | Registrar un cambio             |
+| git commit | Hacer un cambio efectivo        |
+| git push   | Subir cambios locales al remoto |
+| git status | Ver estado de los cambios       |
 
 Clonar un repositorio
 
